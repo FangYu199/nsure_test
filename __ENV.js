@@ -1,1 +1,1 @@
-window.__ENV = {"REACT_APP_KAI_API":"https://api.nsure.network/v1","REACT_APP_ZHAO_API":"http://192.168.0.150:8001"};
+window.__ENV = {"REACT_APP_KAI_API":"https://api.nsure.network/v1","REACT_APP_ZHAO_API":"https://api.nsure.network/claim","REACT_APP_CLAIM":"https://claim.nsure.network"};
